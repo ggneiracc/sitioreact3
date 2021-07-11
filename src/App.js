@@ -13,22 +13,22 @@ function App() {
   return (
     <div className="container">
           
-      <header class="row bg-secondary">
+      <header className="row bg-secondary">
         Header (Cabecera)
         <C01componente />
       </header>
 
-      <nav class="row bg-success">
+      <nav className="row bg-success">
         nav (Navegador-menu)
       </nav>
 
-      <section class="row bg-primary"> 
-        <article class="col-md-6 bg-warning"> 
+      <section className="row bg-primary"> 
+        <article className="col-md-6 bg-warning"> 
           Articulo 1
           <Matriz />
         </article>
         
-        <article class="col-md-4 bg-secondary">
+        <article clclassNamess="col-md-4 bg-secondary">
           Articulo 2
           <EjemploDeEstado />
           <br/>
@@ -39,13 +39,13 @@ function App() {
           <ComponenteConVariable xVariable="Hola mundo... desde... React" />
         </article>
 
-        <aside class="col-md-2 bg-primary">
+        <aside className="col-md-2 bg-primary">
           aside (Apartado)
           <C03componenteConCss />
         </aside>
       </section>
 
-      <footer class="row bg-dark text-light">
+      <footer className="row bg-dark text-light">
         footer (Pie de página)
         <C02contador />
       </footer>
