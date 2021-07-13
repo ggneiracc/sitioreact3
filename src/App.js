@@ -1,13 +1,4 @@
-//import logo from './logo.svg';
-//import './App.css';
-//import C01componente from "./components/C01componente";
-//import C02contador from "./components/C02contador";
-//import C03componenteConCss from "./components/C03CompCss";
-//import EjemploDeEstado from "./components/C04estado";
-//import EjemploDeDobleEstado from "./components/C05dobleestado";
-//import ComponenteConVariable from "./components/C06variable";
-//import OperadorTernario from "./components/C07operador";
-//import Matriz from "./components/C08matriz";
+
 
 function App() {
   return (
@@ -187,7 +178,7 @@ Es este apartado se esta considerando algunos tipos de botones y sus funcionalid
         </article>
       </section>
 
-      <footer className="row bg-dark d-flex justify-content-center align-items-center text-light" style={{height:'120px', color:'yellow'}}>
+      <footer className="row bg-dark d-flex justify-content-center align-items-center text-light" style={{height:'120px'}}>
         <span>Información del sitio web</span>
       </footer>
     </div>
