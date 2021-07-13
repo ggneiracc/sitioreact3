@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/sitioreact3/static/css/main.34fcbabc.chunk.css",
-    "main.js": "/sitioreact3/static/js/main.652eb416.chunk.js",
-    "main.js.map": "/sitioreact3/static/js/main.652eb416.chunk.js.map",
-    "runtime-main.js": "/sitioreact3/static/js/runtime-main.88a251ed.js",
-    "runtime-main.js.map": "/sitioreact3/static/js/runtime-main.88a251ed.js.map",
+    "main.css": "/sitioreact3/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/sitioreact3/static/js/main.c3534b0b.chunk.js",
+    "main.js.map": "/sitioreact3/static/js/main.c3534b0b.chunk.js.map",
+    "runtime-main.js": "/sitioreact3/static/js/runtime-main.bc306e9f.js",
+    "runtime-main.js.map": "/sitioreact3/static/js/runtime-main.bc306e9f.js.map",
     "static/css/2.4be38407.chunk.css": "/sitioreact3/static/css/2.4be38407.chunk.css",
-    "static/js/2.a350d77b.chunk.js": "/sitioreact3/static/js/2.a350d77b.chunk.js",
-    "static/js/2.a350d77b.chunk.js.map": "/sitioreact3/static/js/2.a350d77b.chunk.js.map",
-    "static/js/3.d9874e9e.chunk.js": "/sitioreact3/static/js/3.d9874e9e.chunk.js",
-    "static/js/3.d9874e9e.chunk.js.map": "/sitioreact3/static/js/3.d9874e9e.chunk.js.map",
+    "static/js/2.25d97996.chunk.js": "/sitioreact3/static/js/2.25d97996.chunk.js",
+    "static/js/2.25d97996.chunk.js.map": "/sitioreact3/static/js/2.25d97996.chunk.js.map",
+    "static/js/3.59849033.chunk.js": "/sitioreact3/static/js/3.59849033.chunk.js",
+    "static/js/3.59849033.chunk.js.map": "/sitioreact3/static/js/3.59849033.chunk.js.map",
     "index.html": "/sitioreact3/index.html",
     "static/css/2.4be38407.chunk.css.map": "/sitioreact3/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.34fcbabc.chunk.css.map": "/sitioreact3/static/css/main.34fcbabc.chunk.css.map",
-    "static/js/2.a350d77b.chunk.js.LICENSE.txt": "/sitioreact3/static/js/2.a350d77b.chunk.js.LICENSE.txt"
+    "static/css/main.2ae47eeb.chunk.css.map": "/sitioreact3/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.25d97996.chunk.js.LICENSE.txt": "/sitioreact3/static/js/2.25d97996.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.88a251ed.js",
+    "static/js/runtime-main.bc306e9f.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.a350d77b.chunk.js",
-    "static/css/main.34fcbabc.chunk.css",
-    "static/js/main.652eb416.chunk.js"
+    "static/js/2.25d97996.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.c3534b0b.chunk.js"
   ]
 }
