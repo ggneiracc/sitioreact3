@@ -11,22 +11,45 @@ import Matriz from "./components/C08matriz";
 
 function App() {
   return (
-    <div>
-      <C01componente />
-      <br/>
-      <C02contador />
-      <br/>
-      <C03componenteConCss />
-      <br/>
-      <EjemploDeEstado />
-      <br/>
-      <EjemploDeDobleEstado />
-      <br/>
-      <ComponenteConVariable xVariable="Hola mundo... desde... React" />
-      <br/>
-      <OperadorTernario xEdad = "20" />
-      <br/>
-      <Matriz />
+    <div className="container">
+      
+      <header className="row bg-secondary">
+        Header (Cabecera)
+        <C01componente />
+      </header>
+
+      <nav className="row bg-success">
+        nav (Navegador-menu)
+      </nav>
+
+      <section className="row bg-primary"> 
+        <article className="col-md-6 bg-warning"> 
+          Articulo 1
+          <Matriz />
+        </article>
+        
+        <article className="col-md-4 bg-secondary">
+          Articulo 2
+          <ComponenteConVariable xVariable="Hola mundo... desde... React" />
+          <br/>
+          <C03componenteConCss />
+          <br/>
+          <EjemploDeEstado />
+          <br/>
+          <EjemploDeDobleEstado />
+          <br/>
+        </article>
+
+        <aside className="col-md-2 bg-primary">
+          aside (Apartado)
+          <OperadorTernario xEdad = "20" />
+        </aside>
+      </section>
+
+      <footer className="row bg-dark text-light">
+        footer (Pie de página)
+        <C02contador />
+      </footer>
     </div>
   );
 }
