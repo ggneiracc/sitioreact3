@@ -5,7 +5,7 @@ const MenuNav = () => {
         <div>
 <nav className="navbar navbar-expand-lg navbar-dark">
   <div className="container-fluid">
-    <a className="navbar-brand" target="_blank" rel="noreferrer" href="https://ggneiracc.github.io/sitioreact3/">Inicio</a>
+    <a className="navbar-brand" target="_blank" rel="noreferrer" href="https://ggneiracc.github.io/sitioreact3/">Inicio-React</a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
