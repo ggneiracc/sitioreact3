@@ -24,22 +24,22 @@ function App() {
           <Carrusel />
         </article>
         
-        <article className="col-md-3 d-flex justify-content-center bg-secondary">
-          <CardTarjeta />
+        <article className="col-md-3 d-flex justify-content-center bg-primary">
+          <Aside />
         </article>
 
-        <aside className="col-md-3 bg-primary">
-          <Aside />
+        <aside className="col-md-3 bg-secondary">
+          <CardTarjeta />
         </aside>
       </section>
 
       <section className="row bg-dark text-light">
         
-        <article className="col-md-5 justify-content-center bg-success">
+        <article className="col-md-9 justify-content-center bg-success">
           <MapaUbic />
         </article>
 
-        <article className="col-md-7 d-flex justify-content-center bg-secondary">
+        <article className="col-md-3 d-flex justify-content-center bg-secondary">
           <VideoPeli />
         </article>
       </section>

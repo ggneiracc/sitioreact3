@@ -10,26 +10,25 @@ const Carrusel = () => {
         </div>
         <div className="carousel-inner">
             <div className="carousel-item active">
-
-            <img src="https://i.ibb.co/44x17TV/galeria1.jpg" className="d-block w-100" alt="..." />
-            <div className="carousel-caption d-none d-md-block">
-                <h5>First slide label</h5>
-                <p>Some representative placeholder content for the first slide.</p>
-            </div>
-            </div>
-            <div className="carousel-item">
-            <img src="https://i.ibb.co/S3gw35h/galeria2.jpg" className="d-block w-100" alt="..." />
-            <div className="carousel-caption d-none d-md-block">
-                <h5>Second slide label</h5>
-                <p>Some representative placeholder content for the second slide.</p>
-            </div>
+                <img src="https://i.ibb.co/GPc4mxK/galeria1.jpg" className="d-block w-100" alt="galeria1" border="0" />
+                <div className="carousel-caption d-none d-md-block">
+                    <h5>Laboratorio de Software</h5>
+                    <p>Some representative placeholder content for the first slide.</p>
+                </div>
             </div>
             <div className="carousel-item">
-            <img src="https://i.ibb.co/3kM4FM9/galeria3.jpg" className="d-block w-100" alt="..." />
-            <div className="carousel-caption d-none d-md-block">
-                <h5>Third slide label</h5>
-                <p>Some representative placeholder content for the third slide.</p>
+                <img src="https://i.ibb.co/vdfm2Rr/galeria2.jpg" className="d-block w-100" alt="galeria2" border="0" />
+                <div className="carousel-caption d-none d-md-block">
+                    <h5>Promociones y ofertas</h5>
+                    <p>Some representative placeholder content for the second slide.</p>
+                </div>
             </div>
+            <div className="carousel-item">
+                <img src="https://i.ibb.co/LJPQrVH/galeria3.jpg" className="d-block w-100" alt="galeria3" border="0" />
+                <div className="carousel-caption d-none d-md-block">
+                    <h5>Servicios múltiples</h5>
+                    <p>Some representative placeholder content for the third slide.</p>
+                </div>
             </div>
         </div>
         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
