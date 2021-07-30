@@ -18,7 +18,7 @@ const MenuNav = () => {
           <a className="nav-link" target="_blank" rel="noreferrer" href="https://cursodw7cp.milaulas.com/">Sitio-LMS</a>
         </li>
         <li className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle" href="#" rel="noreferrer" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a className="nav-link dropdown-toggle" href="https://www.google.com" rel="noreferrer" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Otros 
           </a>
           <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -30,7 +30,7 @@ const MenuNav = () => {
           </ul>
         </li>
         <li className="nav-item">
-          <a className="nav-link disabled" href="#" rel="noreferrer" tabindex="-1" aria-disabled="true">Disabled</a>
+          <a className="nav-link disabled" href="https://www.google.com" rel="noreferrer" tabindex="-1" aria-disabled="true">Disabled</a>
         </li>
       </ul>
       <form className="d-flex">
